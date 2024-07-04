@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name = "google_maps_pb_decoder"
   spec.version = GoogleMapsPbDecoder::VERSION
   spec.authors = ["Yicheng Zhou"]
-  spec.email = ["zyc9012@gmail.com"]
+  spec.email = ["Jayplaza7979@gmail.com"]
 
   spec.summary = "Google Maps pb (protobuf) parameter decoder."
   spec.description = "This gem decodes the protobuf parameters used in Google Maps into readable JSON for easy inspection and debugging."
